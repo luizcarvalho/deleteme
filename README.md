@@ -1,0 +1,2 @@
+# deleteme
+STATIC FILES
